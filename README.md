@@ -1,1 +1,1 @@
-# PRO-C174-Teacher-Boilerplate
+# PRO-C174-Plantilla-maestra
